@@ -1,0 +1,64 @@
+/* Hello World! */
+.list {
+
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+article {
+	margin: 0 10vw 0 10vw;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+section {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+h1 {
+	font-family: 'PT Sans', sans-serif;
+}
+
+h2 {
+	font-family: 'PT Sans', sans-serif;
+}
+
+h3 {
+	font-family: 'PT Sans', sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-self: flex-start;
+	font-size: 1.2em;
+}
+
+p {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1.2em;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+	height: auto;
+}
+
+#image {
+	padding-left: 2em;
+	
+}
+
+#img-caption {
+	font-size: 1em;
+}
+
+#wikipedia-link {
+	font-size: 1em;
+}
