@@ -22,7 +22,7 @@ section {
 	align-items: center;
 }
 
-
+/*
 h1 {
 	font-family: 'PT Sans', sans-serif;
 }
@@ -30,13 +30,14 @@ h1 {
 h2 {
 	font-family: 'PT Sans', sans-serif;
 }
+*/
 
 h3 {
 	font-family: 'PT Sans', sans-serif;
 	display: flex;
 	flex-direction: column;
 	align-self: flex-start;
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 
 p {
